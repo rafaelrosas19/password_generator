@@ -1,5 +1,3 @@
-PASSWORD GENERATOR 
-
 # Description: 
 
 The goal of this app is to allow user to create their own randomly generated password based on their criteria. 
